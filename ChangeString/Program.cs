@@ -24,7 +24,7 @@ namespace ChangeString
 
         private static void Compare(string a1, string b1, string s2)
         {
-            Console.WriteLine(($"a2+b2 == s2 : {a1 + b1 == s2}"));
+            Console.WriteLine(($"a1+b1 == s2 : {a1 + b1 == s2}"));
         }
     }
 }
